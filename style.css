@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 10px;
+  background-color: lightblue;
+}
+
+#fetchButton {
+  margin: 10px;
+}
+
+#title {
+  display: flex;
+  justify-content: center;
+}
+
+#inputArea {
+  display: flex;
+  justify-content: center;
+}
+
+#imageDiv {
+  padding-top: 15px;
+}
+
+img {
+  box-shadow: 0px 0px 15px black;
+}
