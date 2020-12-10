@@ -5,7 +5,7 @@ let pictureDiv = document.getElementById("imageDiv");
 let img = document.createElement("img");
 pictureDiv.appendChild(img);
 
-// const quoteUrl = "http://quotes.stormconsultancy.co.uk/random.json";  // Inspirational Quote
+// const quoteUrl = "http://quotes.stormconsultancy.co.uk/random.json"; // Inspirational Quote
 const quoteUrl = "https://ron-swanson-quotes.herokuapp.com/v2/quotes"; // Ron Swanson Quote
 const photoUrl = "https://picsum.photos/550";
 
