@@ -2,10 +2,30 @@ body {
   margin: 0;
   padding: 10px;
   background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#title {
+  font-family: Righteous;
+}
+
+#randomQuote {
+  border-radius: 8px;
+  padding: 5px;
+}
+
+#blockQuote {
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+  background-color: antiquewhite;
 }
 
 #fetchButton {
-  margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 #title {
