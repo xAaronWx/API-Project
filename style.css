@@ -28,6 +28,12 @@ body {
   margin-bottom: 20px;
 }
 
+#swansonGif {
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
 #title {
   display: flex;
   justify-content: center;
